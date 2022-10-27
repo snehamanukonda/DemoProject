@@ -37,6 +37,13 @@
     ]
   },
   "devDependencies": {
-    "@percy/react": "^0.4.6"
+    "@percy/react": "^0.4.6",
+    "eslint-plugin-react-percy": "^0.2.4"
+  },
+  "plugins": [
+    "react-percy"
+  ],
+  "env": {
+    "react-percy/globals": true
   }
 }
