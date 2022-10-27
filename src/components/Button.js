@@ -5,7 +5,7 @@ export default class Button extends React.Component {
     
     return (
     <>
-    <div style={{color:"#00FF00"}}>Button</div>
+    <div style={{color:"#037bfc"}}>Button</div>
     <br/>
     <button>button</button>
     </>
